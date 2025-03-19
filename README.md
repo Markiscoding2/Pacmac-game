@@ -1,5 +1,3 @@
-Certainly, asteroid destroyer! Here's a comprehensive README for your Pacman game project:
-
 # Pacman Game
 
 Welcome to the Pacman Game project! This is a C++ implementation of the classic arcade game, Pacman, where players navigate through a maze, collecting pellets and avoiding ghosts.
